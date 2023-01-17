@@ -1,0 +1,6 @@
+a,o,action
+http://example.org/virtualhome2kg/instance/admire_paintings_scene1,http://example.org/virtualhome2kg/instance/wallpictureframe419_scene1,http://example.org/virtualhome2kg/ontology/action/walk
+http://example.org/virtualhome2kg/instance/browse_internet_scene1,http://example.org/virtualhome2kg/instance/livingroom336_scene1,http://example.org/virtualhome2kg/ontology/action/walk
+http://example.org/virtualhome2kg/instance/brush_teeth_scene1,http://example.org/virtualhome2kg/instance/bathroom11_scene1,http://example.org/virtualhome2kg/ontology/action/walk
+http://example.org/virtualhome2kg/instance/carry_box_scene1,http://example.org/virtualhome2kg/instance/box194_scene1,http://example.org/virtualhome2kg/ontology/action/walk
+http://example.org/virtualhome2kg/instance/change_tv_channel_scene1,http://example.org/virtualhome2kg/instance/livingroom336_scene1,http://example.org/virtualhome2kg/ontology/action/walk

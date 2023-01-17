@@ -1,0 +1,16 @@
+a,o,action
+http://example.org/virtualhome2kg/instance/find_some_food_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/find_some_food_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/close
+http://example.org/virtualhome2kg/instance/find_some_food_scene1,http://example.org/virtualhome2kg/instance/kitchencabinet237_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/find_some_food_scene1,http://example.org/virtualhome2kg/instance/kitchencabinet237_scene1,http://example.org/virtualhome2kg/ontology/action/close
+http://example.org/virtualhome2kg/instance/clean_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/wipe
+http://example.org/virtualhome2kg/instance/clean_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/put
+http://example.org/virtualhome2kg/instance/clean_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/leaving_room_scene1,http://example.org/virtualhome2kg/instance/door52_scene1,http://example.org/virtualhome2kg/ontology/action/close
+http://example.org/virtualhome2kg/instance/put_food_in_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/find
+http://example.org/virtualhome2kg/instance/put_food_in_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/put_food_in_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/putIn
+http://example.org/virtualhome2kg/instance/put_groceries_in_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/put_groceries_in_fridge_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/put
+http://example.org/virtualhome2kg/instance/cook_some_food_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/open
+http://example.org/virtualhome2kg/instance/cook_some_food_scene1,http://example.org/virtualhome2kg/instance/fridge306_scene1,http://example.org/virtualhome2kg/ontology/action/close
