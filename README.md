@@ -5,11 +5,11 @@
 DropBox(https://www.dropbox.com/home/knowledgeGraphData)
 
 ### SPARQLクエリによる危険な情報の定義と検出について
-SPARQLクエリの使用手順.pdfを参照ください．
+SPARQLクエリ実行手順.pdf を参照ください．
 
 ### 埋め込みについて
 dgl-keフォルダ内部にあるpythonノートブックを4ブロック目まで実行し，DropBoxにあるhomeriskactivity.csvを，"dgl-ke/python/my_task/homeriskactivity_2/"にコピーし，ノートブックの5ブロック目以降を実行できます．
 
 ### GPTによる検出された危険行動のリスクと解決策の提示について
-KnowledgeGraphChallenge_GPT3.ipynbを参照ください．
+KnowledgeGraphChallenge_GPT3.ipynb を参照ください．
 
