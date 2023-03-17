@@ -1,6 +1,7 @@
 # KnowledgeGraphChallenge2022
 
 ### 各種リンク
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MogoWhite/KnowledgeGraphChallenge2022/blob/main/KnowledgeGraphChallenge_GPT3.ipynb)
 [](
 発表資料(https://aoyamajp-my.sharepoint.com/:p:/g/personal/c5622219_aoyama_jp/EV2DmBcXBuZHqAuLdn1pmpUBho6gareXLxfLP21szn0Eug?e=lTgXEM)<br>
 )
@@ -14,4 +15,5 @@ dgl-keフォルダ内部にあるpythonノートブックを4ブロック目ま�
 
 ### GPTによる検出された危険行動のリスクと解決策の提示について
 KnowledgeGraphChallenge_GPT3.ipynb を参照ください．
+
 
