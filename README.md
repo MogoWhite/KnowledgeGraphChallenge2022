@@ -1,7 +1,7 @@
 # KnowledgeGraphChallenge2022
 
 ### 各種リンク
-発表資料(https://aoyamajp-my.sharepoint.com/:p:/g/personal/c5622219_aoyama_jp/EV2DmBcXBuZHqAuLdn1pmpUBho6gareXLxfLP21szn0Eug?e=lTgXEM)
+発表資料(https://aoyamajp-my.sharepoint.com/:p:/g/personal/c5622219_aoyama_jp/EV2DmBcXBuZHqAuLdn1pmpUBho6gareXLxfLP21szn0Eug?e=lTgXEM)<br>
 DropBox(https://www.dropbox.com/home/knowledgeGraphData)
 
 ### SPARQLクエリによる危険な情報の定義と検出について
