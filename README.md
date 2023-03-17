@@ -2,6 +2,7 @@
 
 ### 各種リンク
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MogoWhite/KnowledgeGraphChallenge2022/blob/main/KnowledgeGraphChallenge_GPT3.ipynb)
+
 [](
 発表資料(https://aoyamajp-my.sharepoint.com/:p:/g/personal/c5622219_aoyama_jp/EV2DmBcXBuZHqAuLdn1pmpUBho6gareXLxfLP21szn0Eug?e=lTgXEM)<br>
 )
