@@ -6,7 +6,7 @@
 [](
 発表資料(https://aoyamajp-my.sharepoint.com/:p:/g/personal/c5622219_aoyama_jp/EV2DmBcXBuZHqAuLdn1pmpUBho6gareXLxfLP21szn0Eug?e=lTgXEM)<br>
 )
-DropBox(https://www.dropbox.com/home/knowledgeGraphData)
+DropBox(https://www.dropbox.com/sh/itr3zty2jjy0zwq/AABrYUt7ZyF3J_icYAHkT3Rma?dl=0)
 
 ### SPARQLクエリによる危険な情報の定義と検出について
 SPARQLクエリ実行手順.pdf を参照ください．
